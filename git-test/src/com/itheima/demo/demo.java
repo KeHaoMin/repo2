@@ -8,6 +8,8 @@ public class demo {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        //com.itheima.demo
+        //123456
             //123
             //1234
     }
